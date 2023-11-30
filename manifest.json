@@ -1,0 +1,9 @@
+{
+  "name": "Operation Logger",
+  "short_name": "OpLogger",
+  "theme_color": "#A9F5A9",
+  "background_color": "#A9F5A9",
+  "display": "standalone",
+  "start_url": "./index.html"
+}
+
